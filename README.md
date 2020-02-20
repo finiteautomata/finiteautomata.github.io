@@ -1,6 +1,3 @@
-# Juan Manuel Pérez
-![My photo](files/jmperez.png)
-
 My name is Juan Manuel, I'm a PhD student and a TA at [Departamento de Computación, FCEyN, Universidad de Buenos Aires](https://www.dc.uba.ar/)
 
 I study Natural Language Processing, and my main area of interest is the detection of Hate Speech and Abusive Language in Social Media. I'm also fond of sociolinguistics in that medium.   
