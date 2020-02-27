@@ -18,9 +18,9 @@ I study Natural Language Processing, and my main area of interest is the detecti
 
 ## Resources
 
-1. "Herramientas computacionales para entender el español de Argentina en Twitter"
+### "Herramientas computacionales para entender el español de Argentina en Twitter" 
 
-Workshop (in the context of the Congreso Internacional de la Lengua Española) we gave along with Santiago Kalinowski at Universidad de Córdoba about computational techniques for discovering regionalisms in Twitter. 
+Workshop given at Universidad de Córdoba, in the context of the "VIII Congreso Internacional de la Lengua Española"
 
   [github](https://github.com/finiteautomata/lingcomp)
   [slides](https://docs.google.com/presentation/d/1ixlFBNVzTlarzN_IDQ3sz4_9CYkxxaDsOrHf0tTyRBg)
