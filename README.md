@@ -16,7 +16,14 @@ I study Natural Language Processing, and my main area of interest is the detecti
 - Janine Kleinhans, Mireia Farrús, Agustín Gravano, Juan Manuel Pérez, Catherine Lai, Leo Wanner ["Using Prosody to Classify Discourse Relations"](https://repositori.upf.edu/bitstream/handle/10230/32717/wanner_interspeech27_usin.pdf?sequence=1&isAllowed=y), Interspeech (2017)
 - Juan Manuel Pérez, Ramiro H. Gálvez, and Agustın Gravano. ["Disentrainment may be a positive thing: A novel measure of unsigned acoustic-prosodic synchrony, and its relation to speaker engagement."](https://www.researchgate.net/profile/Ramiro_Galvez/publication/307889617_Disentrainment_may_be_a_Positive_Thing_A_Novel_Measure_of_Unsigned_Acoustic-Prosodic_Synchrony_and_its_Relation_to_Speaker_Engagement/links/586d40d608ae329d62138888/Disentrainment-may-be-a-Positive-Thing-A-Novel-Measure-of-Unsigned-Acoustic-Prosodic-Synchrony-and-its-Relation-to-Speaker-Engagement.pdf) Interspeech 2016 (2016): 1270-1274.
 
+## Resources
 
+1. "Herramientas computacionales para entender el español de Argentina en Twitter"
+
+Workshop (in the context of the Congreso Internacional de la Lengua Española) we gave along with Santiago Kalinowski at Universidad de Córdoba about computational techniques for discovering regionalisms in Twitter. 
+
+  [github](https://github.com/finiteautomata/lingcomp)
+  [slides](https://docs.google.com/presentation/d/1ixlFBNVzTlarzN_IDQ3sz4_9CYkxxaDsOrHf0tTyRBg)
 
 ## CV
 
