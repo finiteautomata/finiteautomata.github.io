@@ -20,6 +20,16 @@ Email: my university email (jmperez at dc uba ar) may not work properly -- conta
 
 ## Resources
 
+### RoBERTuito: A pre-trained model for social media text
+
+[Link to github repository](https://github.com/pysentimiento/robertuito)
+
+
+### pysentimiento: A multilingual toolkit for Sentiment Analysis and other Social NLP tasks
+
+[Link to github repository](https://github.com/pysentimiento/pysentimiento)
+
+
 ### "Herramientas computacionales para entender el español de Argentina en Twitter" 
 
 Workshop given at Universidad de Córdoba, in the context of the "VIII Congreso Internacional de la Lengua Española"
