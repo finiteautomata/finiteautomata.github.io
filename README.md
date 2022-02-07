@@ -2,7 +2,7 @@ My name is Juan Manuel, I'm a PhD student and a TA at [Departamento de Computaci
 
 I study Natural Language Processing, and my main area of interest is the detection of Hate Speech and Abusive Language in Social Media. I'm also fond of sociolinguistics in social media.   
 
-Email: my university email (jmperez at dc uba ar) may not work properly -- contact me at yo at jmperez dot com dot ar
+Email: jmperez at dc uba ar
 
 [[github]](https://github.com/finiteautomata/) -- [[linkedin]](https://www.linkedin.com/in/perezjuanma/) -- [[twitter]](http://twitter.com/perezjotaeme)
 
