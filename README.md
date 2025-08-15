@@ -29,4 +29,4 @@ Workshop given at Universidad de Córdoba, in the context of the "VIII Congreso 
 
 ## CV
 
-You can download my full CV [here](files/cv-juanmanuelperez.pdf) or a resume [here](files/juanmanuelperez-resume.pdf).
+You can download my [full CV](files/cv-juanmanuelperez.pdf) or a [resume](files/juanmanuelperez-resume.pdf).
